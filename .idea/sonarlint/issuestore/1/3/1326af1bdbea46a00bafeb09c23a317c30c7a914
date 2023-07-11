@@ -1,0 +1,13 @@
+
+V	java:S125"<This block of commented-out lines of code should be removed.(±¸²¤şÿÿÿÿ
+E
+java:S1874j"/Remove this use of "getYear"; it is deprecated.(€„ªø
+F
+java:S1874k"0Remove this use of "getMonth"; it is deprecated.(–¨ì¥
+D
+java:S1874l"/Remove this use of "getDate"; it is deprecated.(Áš‚[
+L
+java:S1874€"0Remove this use of "getHours"; it is deprecated.(´Çš¤ûÿÿÿÿ
+N
+java:S1874"2Remove this use of "getMinutes"; it is deprecated.(¿¯¬çùÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¿ÀŠ­

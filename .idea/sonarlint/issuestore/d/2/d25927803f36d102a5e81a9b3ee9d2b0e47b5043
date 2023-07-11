@@ -1,0 +1,32 @@
+
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(ŒœèÉ
+F
+java:S18748"0Remove this use of "getHours"; it is deprecated.(¯†ÄÍ
+H
+java:S18748"2Remove this use of "getMinutes"; it is deprecated.(¯†ÄÍ
+K
+java:S1874:"0Remove this use of "setHours"; it is deprecated.(ãí°üÿÿÿÿ
+H
+java:S1874;"2Remove this use of "setMinutes"; it is deprecated.(¾Äƒ
+Q
+java:S1117´":Rename "doctor" which hides the field declared at line 12.(œ“ìü
+W
+java:S1117µ";Rename "patient" which hides the field declared at line 14.(‘Ïşÿÿÿÿÿ
+F
+java:S1874Ã"/Remove this use of "getYear"; it is deprecated.(€„ªø
+G
+java:S1874Ä"0Remove this use of "getMonth"; it is deprecated.(–¨ì¥
+E
+java:S1874Å"/Remove this use of "getDate"; it is deprecated.(Áš‚[
+L
+java:S1874Ù"0Remove this use of "getHours"; it is deprecated.(´Çš¤ûÿÿÿÿ
+N
+java:S1874Ú"2Remove this use of "getMinutes"; it is deprecated.(¿¯¬çùÿÿÿÿ
+€
+java:S1319"jThe type of "imagePaths" should be an interface such as "List" rather than the implementation "ArrayList".(ŒœèÉ
+‡
+java:S1319º"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(×¶Îò
+‡
+java:S1319¾"kThe type of "imagesPaths" should be an interface such as "List" rather than the implementation "ArrayList".(Á¿Êüÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¿ÀŠ­

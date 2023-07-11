@@ -1,0 +1,25 @@
+
+>
+java:S1659"(Declare "rightPanel" on a separate line.(§æŞú
+<
+java:S3010"&Remove this assignment of "mainFrame".(¥ºÈ›
+_
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(Â÷‚À
+]	java:S125H"<This block of commented-out lines of code should be removed.(³Ú½ÿÿÿÿÿ8¤¡Šó’1
+Q
+java:S1874T"/Remove this use of "getText"; it is deprecated.(»›ÿÿÿÿÿ8µ‰Æò’1
+L
+java:S1874["/Remove this use of "getText"; it is deprecated.(§·áß8Øäûò’1
+R
+java:S1874‰"/Remove this use of "getText"; it is deprecated.(ëÖôÿÿÿÿÿ8Şäûò’1
+R
+java:S1874"/Remove this use of "getText"; it is deprecated.(ğÑøˆÿÿÿÿÿ8Şäûò’1
+h
+java:S11922"KDefine a constant instead of duplicating this literal "  Username" 4 times.(Á­ÿË8àäûò’1
+m
+java:S1192K"KDefine a constant instead of duplicating this literal "  Password" 4 times.(ßÉÏ·ıÿÿÿÿ8áäûò’1
+c
+java:S1192+"FDefine a constant instead of duplicating this literal "Arial" 4 times.(³¬±8å‹ïò’1
+j
+java:S1192,"HDefine a constant instead of duplicating this literal "#400000" 9 times.(è–»­üÿÿÿÿ8Í‘ó’1
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(İØ˜úÿÿÿÿ

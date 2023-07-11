@@ -1,0 +1,24 @@
+
+_
+java:S1659"IDeclare "patientPanel" and all following declarations on a separate line.(Á¾Ì¬
+]
+java:S1659"GDeclare "tablePanel" and all following declarations on a separate line.(ð´•Ú
+m
+java:S3776 "RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(‰Í¨òøÿÿÿÿ
+?
+java:S3010A"*Remove this assignment of "sessionsTable".(êèò
+P
+java:S1161y":Add the "@Override" annotation above this method signature(ÈÊ“À
+Q
+java:S1161†":Add the "@Override" annotation above this method signature(ÈÊ“À
+Q
+java:S1161“":Add the "@Override" annotation above this method signature(ÈÊ“À
+T	java:S106Æ"9Replace this use of System.out or System.err by a logger.(¶‰¼‚ýÿÿÿÿ
+W	java:S125×"<This block of commented-out lines of code should be removed.(—‹üŸýÿÿÿÿ
+F
+java:S1172Ú"/Remove this unused method parameter "sessions".(àÃîÍ
+a
+java:S1192W"FDefine a constant instead of duplicating this literal "Arial" 4 times.(¹ÀŒŸùÿÿÿÿ
+
+java:S1319Ú"hThe type of "sessions" should be an interface such as "List" rather than the implementation "ArrayList".(àÃîÍ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(—Éõ»øÿÿÿÿ

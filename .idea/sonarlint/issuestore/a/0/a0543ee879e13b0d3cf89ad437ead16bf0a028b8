@@ -1,0 +1,24 @@
+
+P
+java:S1118":Add a private constructor to hide the implicit public one.(Å–úÅ
+“
+java:S1130"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(±Î‰Íÿÿÿÿÿ
+`
+java:S2674"JCheck the return value of the "read" call to see how many bytes were read.(øÑš
+
+java:S11305"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(¡¢¦Å
+`
+java:S26748"JCheck the return value of the "read" call to see how many bytes were read.(øÑš
+2
+java:S1643Q"Use a StringBuilder instead.(ŸŒĞÙ
+7
+java:S1643a"Use a StringBuilder instead.(‘úîüúÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Å­­ñ
+b
+java:S20956"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ôÈË0
+b
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ôÈË0
+i
+java:S2095!"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(û¾÷¬ûÿÿÿÿ
+c
+java:S2095?"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(Õ¦›n

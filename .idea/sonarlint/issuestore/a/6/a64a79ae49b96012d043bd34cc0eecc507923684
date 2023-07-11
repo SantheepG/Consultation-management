@@ -1,0 +1,35 @@
+
+S
+java:S2696"6Make the enclosing method "static" or remove this set.(Ã›8›ĞÊş1
+\	java:S899V";Do something with the "boolean" value returned by "delete".(×ÄÆàüÿÿÿÿ8£ĞÊş1
+p
+java:S4042V"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(×ÄÆàüÿÿÿÿ8£ĞÊş1
+M
+java:S5960"+Remove this assertion from production code.(›óÑÄøÿÿÿÿ8›Šş1
+]
+java:S1192‹"FDefine a constant instead of duplicating this literal "C0001" 3 times.(Ê†äÂ
+f
+java:S1192"KDefine a constant instead of duplicating this literal "Available" 32 times.(›óÑÄøÿÿÿÿ
+h
+java:S1192"MDefine a constant instead of duplicating this literal "12-May-2000" 35 times.(›óÑÄøÿÿÿÿ
+e
+java:S1192"JDefine a constant instead of duplicating this literal "DOC12345" 11 times.(›óÑÄøÿÿÿÿ
+_
+java:S1192""IDefine a constant instead of duplicating this literal "DOC12348" 3 times.(ÇÓìµ
+_
+java:S1192#"IDefine a constant instead of duplicating this literal "DOC12349" 3 times.(˜—–¡
+_
+java:S1192 "IDefine a constant instead of duplicating this literal "DOC12346" 3 times.(éÒÁ·
+_
+java:S1192!"IDefine a constant instead of duplicating this literal "DOC12347" 3 times.(ŸÖÜÜ
+q
+java:S1192"VDefine a constant instead of duplicating this literal "Cosmetic-Dermatology" 31 times.(›óÑÄøÿÿÿÿ
+g
+java:S1192"LDefine a constant instead of duplicating this literal "0702010059" 33 times.(›óÑÄøÿÿÿÿ
+\
+java:S1192}"FDefine a constant instead of duplicating this literal "S0001" 4 times.(ºÂ®Š
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¿ÀŠ­
+\
+java:S2259‹"EA "NullPointerException" could be thrown; "session" is nullable here.(Ê†äÂ
+a
+java:S2259¡"EA "NullPointerException" could be thrown; "session" is nullable here.(›°÷Öûÿÿÿÿ

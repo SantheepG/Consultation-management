@@ -1,0 +1,46 @@
+
+
+java:S1186Ù"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ä Ïúüÿÿÿÿ
+
+java:S1186Ş"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(®î’×üÿÿÿÿ
+˜
+java:S1186ã"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ãÆĞÂ
+]
+java:S1659"GDeclare "mainPanel2" and all following declarations on a separate line.(ÎÏô¥
+E
+java:S1659"*Declare "panel1Bottom" on a separate line.(Ó÷õÀûÿÿÿÿ
+D
+java:S1659".Declare "panel1BottomEast" on a separate line.(×—”
+i
+java:S1659#"NDeclare "deleteEditSession" and all following declarations on a separate line.(È Ñ›ûÿÿÿÿ
+=
+java:S1659)"(Declare "panel3East" on a separate line.(¤É÷>
+G
+java:S1659*",Declare "sortDataButton" on a separate line.(ğ”Ôÿüÿÿÿÿ
+H
+java:S3010/"-Remove this assignment of "numberOfSessions".(°ø—ôùÿÿÿÿ
+D
+java:S3010Ï"-Remove this assignment of "numberOfSessions".(êà¶Ä
+@
+java:S3010İ"*Remove this assignment of "sessionsTable".(êèò
+>
+java:S3010©"(Remove this assignment of "allSessions".(ÇÌé
+S	java:S106v"9Replace this use of System.out or System.err by a logger.(¶‰¼‚ıÿÿÿÿ
+Q
+java:S1161¯":Add the "@Override" annotation above this method signature(ÈÊ“À
+T	java:S106š"9Replace this use of System.out or System.err by a logger.(¶‰¼‚ıÿÿÿÿ
+O	java:S106„"9Replace this use of System.out or System.err by a logger.(ÊüÓº
+O	java:S106"9Replace this use of System.out or System.err by a logger.(ÊüÓº
+O	java:S106²"9Replace this use of System.out or System.err by a logger.(ÊüÓº
+O	java:S106¾"9Replace this use of System.out or System.err by a logger.(ÊüÓº
+a
+java:S1192P"FDefine a constant instead of duplicating this literal "Arial" 3 times.(¯¡©åùÿÿÿÿ
+e
+java:S1192à"IDefine a constant instead of duplicating this literal "Segoe UI" 5 times.(âµéşÿÿÿÿ
+j
+java:S1192V"ODefine a constant instead of duplicating this literal "Doctor Name..." 4 times.(Š“Ç¾ûÿÿÿÿ
+c
+java:S1192v"HDefine a constant instead of duplicating this literal "Error: " 6 times.(¶‰¼‚ıÿÿÿÿ
+
+java:S1319É"hThe type of "sessions" should be an interface such as "List" rather than the implementation "ArrayList".(àÃîÍ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(—Éõ»øÿÿÿÿ

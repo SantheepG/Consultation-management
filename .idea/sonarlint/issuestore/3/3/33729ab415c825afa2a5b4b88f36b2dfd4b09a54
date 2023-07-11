@@ -1,0 +1,14 @@
+
+>
+java:S1659"(Declare "rightPanel" on a separate line.(§æŞú
+`
+java:S1659"JDeclare "logoContainer" and all following declarations on a separate line.(Ã“¶
+_
+java:S1659"IDeclare "doctorButton" and all following declarations on a separate line.(¨¸»ã
+P
+java:S1161!":Add the "@Override" annotation above this method signature(ÈÊ“À
+S	java:S106{"9Replace this use of System.out or System.err by a logger.(¶‰¼‚ıÿÿÿÿ
+R	java:S125±"<This block of commented-out lines of code should be removed.(€‘ ³
+a
+java:S1192="FDefine a constant instead of duplicating this literal "Arial" 3 times.(åÇÄÿÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(İØ˜úÿÿÿÿ

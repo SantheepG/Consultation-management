@@ -1,0 +1,48 @@
+
+
+java:S1186Ü"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ä Ïúüÿÿÿÿ
+
+java:S1186á"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(®î’×üÿÿÿÿ
+˜
+java:S1186æ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ãÆÐÂ
+]
+java:S1659"GDeclare "mainPanel2" and all following declarations on a separate line.(ÎÏô¥
+E
+java:S1659"*Declare "panel1Bottom" on a separate line.(Ó÷õÀûÿÿÿÿ
+D
+java:S1659".Declare "panel1BottomEast" on a separate line.(×—”
+i
+java:S1659%"NDeclare "deleteEditPatient" and all following declarations on a separate line.(ËŸáÑþÿÿÿÿ
+=
+java:S1659+"(Declare "panel3East" on a separate line.(¤É÷>
+G
+java:S1659,",Declare "sortDataButton" on a separate line.(ð”Ôÿüÿÿÿÿ
+C
+java:S30101"-Remove this assignment of "numberOfPatients".(´«æÙ
+C
+java:S3010Ñ"-Remove this assignment of "numberOfPatients".(ó¤ÕY
+F
+java:S3010Þ"*Remove this assignment of "patientsTable".(„öû›ûÿÿÿÿ
+C
+java:S3010ª"'Remove this assignment of "allDoctors".(®¯þÿþÿÿÿÿ
+S	java:S106x"9Replace this use of System.out or System.err by a logger.(¶‰¼‚ýÿÿÿÿ
+Q
+java:S1161±":Add the "@Override" annotation above this method signature(ÈÊ“À
+T	java:S106›"9Replace this use of System.out or System.err by a logger.(¶‰¼‚ýÿÿÿÿ
+T	java:S106Ê"9Replace this use of System.out or System.err by a logger.(»§–‘þÿÿÿÿ
+T	java:S106Ð"9Replace this use of System.out or System.err by a logger.(Ùƒê†üÿÿÿÿ
+O	java:S106‡"9Replace this use of System.out or System.err by a logger.(ÊüÓº
+O	java:S106“"9Replace this use of System.out or System.err by a logger.(ÊüÓº
+O	java:S106µ"9Replace this use of System.out or System.err by a logger.(ÊüÓº
+O	java:S106Á"9Replace this use of System.out or System.err by a logger.(ÊüÓº
+c
+java:S1192x"HDefine a constant instead of duplicating this literal "Error: " 6 times.(¶‰¼‚ýÿÿÿÿ
+i
+java:S1192X"SDefine a constant instead of duplicating this literal "Search Patients..." 4 times.(ú€¸ò
+a
+java:S1192R"FDefine a constant instead of duplicating this literal "Arial" 3 times.(¯¡©åùÿÿÿÿ
+`
+java:S1192á"IDefine a constant instead of duplicating this literal "Segoe UI" 5 times.(ˆÚñÌ
+„
+java:S1319Ì"hThe type of "patients" should be an interface such as "List" rather than the implementation "ArrayList".(÷Ú´½üÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(—Éõ»øÿÿÿÿ

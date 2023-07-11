@@ -1,0 +1,10 @@
+
+D
+java:S1874("/Remove this use of "getYear"; it is deprecated.(Šáş5
+F
+java:S1874)"0Remove this use of "getMonth"; it is deprecated.(Œ«Â
+E
+java:S1874*"/Remove this use of "getDate"; it is deprecated.(ƒãÛ¯
+D
+java:S1874K"/Remove this use of "getYear"; it is deprecated.(Šáş5
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¿ÀŠ­

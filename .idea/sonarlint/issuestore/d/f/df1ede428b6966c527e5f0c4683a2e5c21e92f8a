@@ -1,0 +1,17 @@
+
+2
+java:S1118"Hide this public constructor.(ÆºœM
+C	java:S108")Either remove or fill this block of code.(ƒø…øÿÿÿÿ
+e
+java:S3252("OUse static access with "javax.swing.WindowConstants" for "DO_NOTHING_ON_CLOSE".(¡ïü
+Z
+java:S32520"8Use static access with "java.awt.Frame" for "getFrames".(‰µ¥¾ûÿÿÿÿ8å´ş‘‘1
+A
+java:S1068"&Remove this unused "pb" private field.(çç…ùÿÿÿÿ
+J
+java:S1066#"/Merge this if statement with the enclosing one.(úî¯¦ùÿÿÿÿ
+C
+java:S1604"(Make this anonymous inner class a lambda(¤©Òâüÿÿÿÿ
+>
+java:S1604"(Make this anonymous inner class a lambda(ê×¶­
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹ª×

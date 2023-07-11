@@ -1,0 +1,50 @@
+
+
+java:S1186ë"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ä Ïúüÿÿÿÿ
+
+java:S1186ğ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(®î’×üÿÿÿÿ
+˜
+java:S1186õ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ãÆĞÂ
+d
+java:S1659"GDeclare "mainPanel2" and all following declarations on a separate line.(ÎÏô¥8×Ù„ş1
+L
+java:S1659"*Declare "panel1Bottom" on a separate line.(Ó÷õÀûÿÿÿÿ8×Ù„ş1
+K
+java:S1659".Declare "panel1BottomEast" on a separate line.(×—”8×Ù„ş1
+L
+java:S1659$"/Declare "checkAvailability" on a separate line.(»ËÕÄ8ØÙ„ş1
+D
+java:S1659*"(Declare "panel3East" on a separate line.(¤É÷>8ØÙ„ş1
+N
+java:S1659+",Declare "sortDataButton" on a separate line.(ğ”Ôÿüÿÿÿÿ8ØÙ„ş1
+t
+java:S3776/"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(µâÅÌøÿÿÿÿ8İÙ„ş1
+O
+java:S30100"2Remove this assignment of "numberOfConsultations".(ÚÜŸ¤8İÙ„ş1
+U
+java:S3010Í"2Remove this assignment of "numberOfConsultations".(¿ŠÇÔıÿÿÿÿ8ŞÙ„ş1
+M
+java:S3010Ú"/Remove this assignment of "consultationsTable".(ÅÀ ¦8ŞÙ„ş1
+I
+java:S3010¿"-Remove this assignment of "allConsultations".(¢Éä¶úÿÿÿÿ
+S	java:S106w"9Replace this use of System.out or System.err by a logger.(¶‰¼‚ıÿÿÿÿ
+X
+java:S1161­":Add the "@Override" annotation above this method signature(ÈÊ“À8íÙ„ş1
+T	java:S106°"9Replace this use of System.out or System.err by a logger.(¶‰¼‚ıÿÿÿÿ
+O	java:S106’"9Replace this use of System.out or System.err by a logger.(ÊüÓº
+O	java:S106"9Replace this use of System.out or System.err by a logger.(ÊüÓº
+O	java:S106¼"9Replace this use of System.out or System.err by a logger.(ÊüÓº
+V	java:S106È"9Replace this use of System.out or System.err by a logger.(ÊüÓº8ÿÙ„ş1
+j
+java:S1192w"HDefine a constant instead of duplicating this literal "Error: " 6 times.(¶‰¼‚ıÿÿÿÿ8†Ú„ş1
+q
+java:S1192W"TDefine a constant instead of duplicating this literal "Consultations No..." 3 times.(âİ«¹8†Ú„ş1
+h
+java:S1192Q"FDefine a constant instead of duplicating this literal "Arial" 3 times.(¯¡©åùÿÿÿÿ8†Ú„ş1
+g
+java:S1192İ"IDefine a constant instead of duplicating this literal "Segoe UI" 5 times.(¿’ÙÚ8†Ú„ş1
+‰
+java:S1319Ó"mThe type of "consultations" should be an interface such as "List" rather than the implementation "ArrayList".(·ê¡©şÿÿÿÿ
+F
+java:S1604ç"(Make this anonymous inner class a lambda(¯ÅÍé8ˆÚ„ş1
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(—Éõ»øÿÿÿÿ

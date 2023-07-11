@@ -1,0 +1,155 @@
+
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÆŠ°çúÿÿÿÿ
+8
+java:S2386"Make this member "protected".(Ÿƒ±÷ûÿÿÿÿ
+8
+java:S2386"Make this member "protected".(ç³ÿÿÿÿÿ
+8
+java:S2386"Make this member "protected".(éä›Ùûÿÿÿÿ
+3
+java:S2386"Make this member "protected".(ğÄµş
+S	java:S106E"9Replace this use of System.out or System.err by a logger.(õŠ“åøÿÿÿÿ
+S	java:S106K"9Replace this use of System.out or System.err by a logger.(½ç‰‡ıÿÿÿÿ
+K
+java:S2696N"6Make the enclosing method "static" or remove this set.(¦™½	
+h
+java:S3776_"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(„Ëäİ
+N	java:S106h"9Replace this use of System.out or System.err by a logger.(°¥ß»
+S	java:S106q"9Replace this use of System.out or System.err by a logger.(„˜ ÿÿÿÿÿ
+T	java:S106†"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ
+M
+java:S2696"6Make the enclosing method "static" or remove this set.(ÿİ¾‘
+O	java:S106”"9Replace this use of System.out or System.err by a logger.(î¤‡
+O	java:S106Ÿ"9Replace this use of System.out or System.err by a logger.(Î›Ş
+T	java:S106¡"9Replace this use of System.out or System.err by a logger.(©¿á…ùÿÿÿÿ
+O	java:S106²"9Replace this use of System.out or System.err by a logger.(ÀÜà’
+O	java:S106¶"9Replace this use of System.out or System.err by a logger.(Î›Ş
+Q	java:S899Ï";Do something with the "boolean" value returned by "delete".(É‡Ñ¤
+e
+java:S4042Ï"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(É‡Ñ¤
+T	java:S106Ò"9Replace this use of System.out or System.err by a logger.(ÜœñÀùÿÿÿÿ
+Q	java:S899é";Do something with the "boolean" value returned by "delete".(É‡Ñ¤
+e
+java:S4042é"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(É‡Ñ¤
+O	java:S106ë"9Replace this use of System.out or System.err by a logger.(İåæ„
+O	java:S106î"9Replace this use of System.out or System.err by a logger.(Àûå 
+T	java:S106ó"9Replace this use of System.out or System.err by a logger.(×¤±üÿÿÿÿ
+O	java:S106—"9Replace this use of System.out or System.err by a logger.(¢Â¡à
+T	java:S106¨"9Replace this use of System.out or System.err by a logger.(šˆÄˆøÿÿÿÿ
+T	java:S106°"9Replace this use of System.out or System.err by a logger.(ôâ€Õüÿÿÿÿ
+T	java:S106¾"9Replace this use of System.out or System.err by a logger.(¦¿Ç’úÿÿÿÿ
+Q	java:S899Ê";Do something with the "boolean" value returned by "delete".(ü†œ«
+e
+java:S4042Ê"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(ü†œ«
+O	java:S106Í"9Replace this use of System.out or System.err by a logger.(¶–Á˜
+Q	java:S899ß";Do something with the "boolean" value returned by "delete".(ü†œ«
+e
+java:S4042ß"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(ü†œ«
+O	java:S106á"9Replace this use of System.out or System.err by a logger.(³íª‡
+O	java:S106ã"9Replace this use of System.out or System.err by a logger.(Àûå 
+T	java:S106ç"9Replace this use of System.out or System.err by a logger.(×¤±üÿÿÿÿ
+O	java:S106Š"9Replace this use of System.out or System.err by a logger.(»îüÎ
+T	java:S106™"9Replace this use of System.out or System.err by a logger.(Œ‘Ü–ùÿÿÿÿ
+T	java:S106 "9Replace this use of System.out or System.err by a logger.(¾­’ğùÿÿÿÿ
+A
+java:S1905§"*Remove this unnecessary cast to "Session".(Ÿ§¿ó
+O	java:S106¨"9Replace this use of System.out or System.err by a logger.(½ïÓ
+V	java:S899²";Do something with the "boolean" value returned by "delete".(ªû©§úÿÿÿÿ
+j
+java:S4042²"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(ªû©§úÿÿÿÿ
+V	java:S899Æ";Do something with the "boolean" value returned by "delete".(ªû©§úÿÿÿÿ
+j
+java:S4042Æ"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(ªû©§úÿÿÿÿ
+N	java:S106È"9Replace this use of System.out or System.err by a logger.(ÏµÚE
+O	java:S106Ê"9Replace this use of System.out or System.err by a logger.(Àûå 
+T	java:S106Î"9Replace this use of System.out or System.err by a logger.(×¤±üÿÿÿÿ
+T	java:S106ø"9Replace this use of System.out or System.err by a logger.(ø¬À•úÿÿÿÿ
+T	java:S106€"9Replace this use of System.out or System.err by a logger.(¡¡µİùÿÿÿÿ
+O	java:S106Š"9Replace this use of System.out or System.err by a logger.(Ÿ‰ÖÕ
+Q	java:S899”";Do something with the "boolean" value returned by "delete".(˜ê¬ô
+e
+java:S4042”"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(˜ê¬ô
+Q	java:S899¨";Do something with the "boolean" value returned by "delete".(˜ê¬ô
+e
+java:S4042¨"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(˜ê¬ô
+O	java:S106«"9Replace this use of System.out or System.err by a logger.(—®İé
+T	java:S106¯"9Replace this use of System.out or System.err by a logger.(×¤±üÿÿÿÿ
+T	java:S106½"9Replace this use of System.out or System.err by a logger.(éí÷„ùÿÿÿÿ
+O	java:S106Á"9Replace this use of System.out or System.err by a logger.(Àûå 
+T	java:S106Å"9Replace this use of System.out or System.err by a logger.(×¤±üÿÿÿÿ
+T	java:S106×"9Replace this use of System.out or System.err by a logger.(ıøÅŒşÿÿÿÿ
+N	java:S106¡"9Replace this use of System.out or System.err by a logger.(¦Ú¼=
+i
+java:S3776­"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ªóµ¸
+T	java:S106Ó"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ
+n
+java:S3776õ"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(…Éš£ÿÿÿÿÿ
+O	java:S106Ü"9Replace this use of System.out or System.err by a logger.(Ÿ°æÕ
+`
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(Â÷‚À
+m
+java:S1192ó"QDefine a constant instead of duplicating this literal "File not exists!" 6 times.(×¤±üÿÿÿÿ
+j
+java:S1192ç"NDefine a constant instead of duplicating this literal "Consultation " 4 times.(©„éˆıÿÿÿÿ
+i
+java:S1192–"MDefine a constant instead of duplicating this literal "Consultation" 4 times.(‰ëÑÿÿÿÿÿ
+j
+java:S1192î"SDefine a constant instead of duplicating this literal "An error occurred." 5 times.(Àûå 
+`
+java:S1192—"IDefine a constant instead of duplicating this literal "Patient " 5 times.(¢Â¡à
+m
+java:S1192h"WDefine a constant instead of duplicating this literal " deleted successfully." 7 times.(°¥ß»
+ˆ
+java:S1192q"mDefine a constant instead of duplicating this literal "Doctor not found by Medical Licence Number: " 3 times.(„˜ ÿÿÿÿÿ
+l
+java:S1192—"UDefine a constant instead of duplicating this literal " added successfully." 3 times.(¢Â¡à
+_
+java:S1192Ì"HDefine a constant instead of duplicating this literal "Patient" 4 times.(‰ââé
+c
+java:S1192Ñ"GDefine a constant instead of duplicating this literal "Doctor" 4 times.(«ôù”üÿÿÿÿ
+^
+java:S1192h"HDefine a constant instead of duplicating this literal "Doctor " 3 times.(°¥ß»
+_
+java:S1192´"HDefine a constant instead of duplicating this literal "Session" 4 times.(…’â·
+‹
+java:S1319"pThe type of "patientArrayList" should be an interface such as "List" rather than the implementation "ArrayList".(ç³ÿÿÿÿÿ
+‹
+java:S1319"pThe type of "sessionArrayList" should be an interface such as "List" rather than the implementation "ArrayList".(éä›Ùûÿÿÿÿ
+‹
+java:S1319"uThe type of "consultationArrayList" should be an interface such as "List" rather than the implementation "ArrayList".(ğÄµş
+‹
+java:S1319%"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¯‘‰ıÿÿÿÿ
+‹
+java:S1319)"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(æëà¥ıÿÿÿÿ
+‹
+java:S1319-"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¢ÄÒúÿÿÿÿ
+‡
+java:S1319İ"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(“È»
+…
+java:S1319º"iThe type of "arrayList" should be an interface such as "List" rather than the implementation "ArrayList".(•™ªÂúÿÿÿÿ
+…
+java:S1319å"iThe type of "arrayList" should be an interface such as "List" rather than the implementation "ArrayList".(›Ü¥°ûÿÿÿÿ
+€
+java:S1319ù"iThe type of "arrayList" should be an interface such as "List" rather than the implementation "ArrayList".(ä½“õ
+3
+java:S1643Ê"Use a StringBuilder instead.(¤‘‚œ
+r
+java:S1104"WMake doctorArray a static final constant or non-public and provide accessors if needed.(Ÿƒ±÷ûÿÿÿÿ
+w
+java:S1104"\Make patientArrayList a static final constant or non-public and provide accessors if needed.(ç³ÿÿÿÿÿ
+w
+java:S1104"\Make sessionArrayList a static final constant or non-public and provide accessors if needed.(éä›Ùûÿÿÿÿ
+w
+java:S1104"aMake consultationArrayList a static final constant or non-public and provide accessors if needed.(ğÄµş
+L
+java:S1444"1Make this "public static doctorArray" field final(Ÿƒ±÷ûÿÿÿÿ
+Q
+java:S1444"6Make this "public static patientArrayList" field final(ç³ÿÿÿÿÿ
+Q
+java:S1444"6Make this "public static sessionArrayList" field final(éä›Ùûÿÿÿÿ
+Q
+java:S1444";Make this "public static consultationArrayList" field final(ğÄµş
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¿ÀŠ­
+c
+java:S2095°"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(ğ­Ï

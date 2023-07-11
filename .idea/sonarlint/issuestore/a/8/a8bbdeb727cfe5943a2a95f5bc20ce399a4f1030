@@ -1,0 +1,18 @@
+
+\
+java:S3252"AUse static access with "javax.swing.SwingConstants" for "CENTER".(Æ™”úÿÿÿÿ
+N
+java:S1117ˆ"7Rename "day" which hides the field declared at line 17.(¶µ§“
+[
+java:S1192-"FDefine a constant instead of duplicating this literal "Arial" 3 times.(ŞØº@
+C
+java:S1604$"(Make this anonymous inner class a lambda(÷ÉßÒùÿÿÿÿ
+>
+java:S16048"(Make this anonymous inner class a lambda(€šÆ
+>
+java:S1604A"(Make this anonymous inner class a lambda(øÚŠÙ
+>
+java:S1604J"(Make this anonymous inner class a lambda(¡ïÄ
+C
+java:S1604Q"(Make this anonymous inner class a lambda(…¯Ùçøÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹ª×
